@@ -34,6 +34,14 @@ public class MinecraftTest extends JavaPlugin implements Listener {
         getServer().getPluginManager().registerEvents(this, this);
         getLogger().info("[MINECRAFT TEST] Initialising Configuration:");
         loadConfiguration();
+        getLogger().info("[MINECRAFT TEST] Starting Database");
+        try{
+            Database db = new Database(getConfig());
+        }
+        catch(Exception ex) {
+            System.out.println(ex.getMessage());
+        }
+        getLogger().info("[MINECRAFT TEST] Database Started");
         getLogger().info("[MINECRAFT TEST] Plugin Enabled!");
     }
 
@@ -58,6 +66,11 @@ public class MinecraftTest extends JavaPlugin implements Listener {
 
     public void loadConfiguration() {
         getConfig().addDefault("outputPath", "plugins" + File.separator + "Output");
+        getConfig().addDefault("templatePath", "Templates");
+        getConfig().addDefault("databaseIP", "127.0.0.1");  //TO BE ASKED TO THE USER
+        getConfig().addDefault("databaseName", "");         //TO BE ASKED TO THE USER
+        getConfig().addDefault("databaseUser", "");         //TO BE ASKED TO THE USER
+        getConfig().addDefault("databasePwd", "");          //TO BE ASKED TO THE USER
         getConfig().options().copyDefaults(true);
         saveConfig();
     }

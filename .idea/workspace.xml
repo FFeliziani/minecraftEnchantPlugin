@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5a1d2c6-3646-4f17-8339-c502436c1a18" name="Default" comment="" />
+    <list default="true" id="c5a1d2c6-3646-4f17-8339-c502436c1a18" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Database.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world/level.dat" afterPath="$PROJECT_DIR$/server/world/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world_nether/level.dat" afterPath="$PROJECT_DIR$/server/world_nether/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world_the_end/level.dat" afterPath="$PROJECT_DIR$/server/world_the_end/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world/level.dat_old" afterPath="$PROJECT_DIR$/server/world/level.dat_old" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world_nether/level.dat_old" afterPath="$PROJECT_DIR$/server/world_nether/level.dat_old" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world_the_end/level.dat_old" afterPath="$PROJECT_DIR$/server/world_the_end/level.dat_old" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world/region/r.-1.0.mca" afterPath="$PROJECT_DIR$/server/world/region/r.-1.0.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world/region/r.0.0.mca" afterPath="$PROJECT_DIR$/server/world/region/r.0.0.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/world/data/villages.dat" afterPath="$PROJECT_DIR$/server/world/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/MinecraftTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/MinecraftTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Tokens.java" afterPath="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Tokens.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/Templates/index.html" afterPath="$PROJECT_DIR$/src/main/resources/Templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="minecraftTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,13 +81,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MinecraftTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MinecraftTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/MinecraftTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="81" selection-start="1975" selection-end="1975" vertical-scroll-proportion="0.7035176" vertical-offset="583" max-vertical-offset="2703">
+            <state line="42" column="9" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="2924">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="48" selection-start="817" selection-end="817" vertical-scroll-proportion="0.31310943" vertical-offset="102" max-vertical-offset="2108">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="221">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,19 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Material.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/bukkit/bukkit/1.7.9-R0.2/bukkit-1.7.9-R0.2.jar!/org/bukkit/Material.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="63" selection-start="5042" selection-end="5042" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="1462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Tokens.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Tokens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="30" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+            <state line="17" column="22" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
               <folding />
             </state>
           </provider>
@@ -110,16 +137,22 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/plugin.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Tokens.java" />
         <option value="$PROJECT_DIR$/src/main/resources/preferences.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Preferences.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/WebServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/MinecraftTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Tokens.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Database.java" />
       </list>
     </option>
   </component>
@@ -200,14 +233,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -360,7 +393,7 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/server/plugins" />
     <property name="FullScreen" value="false" />
-    <property name="SearchEverywhereHistory" value="&#10;`" />
+    <property name="SearchEverywhereHistory" value="`" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -502,6 +535,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c5a1d2c6-3646-4f17-8339-c502436c1a18" name="Default" comment="" />
@@ -512,14 +562,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -531,7 +581,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -660,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Tokens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="30" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="-3.4" vertical-offset="0" max-vertical-offset="187">
@@ -674,9 +717,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Tokens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="22" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/MinecraftTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="81" selection-start="1975" selection-end="1975" vertical-scroll-proportion="0.7035176" vertical-offset="583" max-vertical-offset="2703">
+        <state line="42" column="9" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="2924">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/federicofeliziani/minecraftTest/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="48" selection-start="817" selection-end="817" vertical-scroll-proportion="0.31310943" vertical-offset="102" max-vertical-offset="2108">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
