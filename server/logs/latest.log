@@ -1,0 +1,121 @@
+[14:02:40] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[14:02:40] [Server thread/INFO]: Loading properties
+[14:02:40] [Server thread/INFO]: Default game type: SURVIVAL
+[14:02:40] [Server thread/INFO]: Generating keypair
+[14:02:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:02:41] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[14:02:41] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:02:41] [Server thread/INFO]: Preparing level "world"
+[14:02:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4132268075241028673)
+[14:02:42] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4132268075241028673)
+[14:02:43] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4132268075241028673)
+[14:02:43] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:02:43] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:02:43] [Server thread/INFO]: [MinecraftTest] Testing Tokens:
+[14:02:43] [Server thread/INFO]: [MinecraftTest] PLAYER_LEVEL
+[14:02:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:02:43] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[14:02:43] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[14:02:43] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[14:02:43] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[14:02:43] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[14:02:43] [Thread-7/INFO]: ----- ------------------- -----
+[14:02:43] [Server thread/INFO]: Done (1.415s)! For help, type "help" or "?"
+[14:13:24] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:13:24] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:13:24] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:13:24] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:13:24] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:13:24] [Server thread/INFO]: [MinecraftTest] Testing Tokens:
+[14:13:24] [Server thread/INFO]: [MinecraftTest] %playerLevel%
+[14:13:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:13:24] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:35:21] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:35:21] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:35:21] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:35:21] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:35:21] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:35:21] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:35:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:35:21] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:36:03] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:36:03] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:36:03] [Server thread/INFO]: [Ljava.lang.StackTraceElement;@58f4f77d
+[14:36:03] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:36:03] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:36:03] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:36:03] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:36:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:36:03] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:36:05] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:36:05] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:36:05] [Server thread/INFO]: [Ljava.lang.StackTraceElement;@162a2ae4
+[14:36:05] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:36:05] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:36:05] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:36:05] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:36:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:36:05] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:36:07] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:36:07] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:36:07] [Server thread/INFO]: [Ljava.lang.StackTraceElement;@70f59023
+[14:36:07] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:36:07] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:36:07] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:36:07] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:36:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:36:07] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:36:30] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:36:30] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:36:30] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:36:30] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:36:30] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:36:30] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:36:30] [Server thread/INFO]: [Ljava.lang.StackTraceElement;@199eb207
+[14:36:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:36:30] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:37:49] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:37:49] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:37:49] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:37:49] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:37:49] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:37:49] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:37:49] [Server thread/INFO]: [Ljava.lang.StackTraceElement;@28b1831e
+[14:37:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:37:49] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:38:06] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:38:06] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:38:06] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:38:06] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:38:06] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:38:06] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:38:06] [Server thread/INFO]: [Ljava.lang.StackTraceElement;@62903e23
+[14:38:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:38:06] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:38:28] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:38:28] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:38:28] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:38:28] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:38:28] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:38:28] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:38:28] [Server thread/INFO]: java.io.FileNotFoundException: \preferences.txt (The system cannot find the file specified)
+[14:38:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:38:28] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:39:02] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:39:02] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:39:02] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:39:02] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:39:02] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:39:02] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:39:02] [Server thread/INFO]: java.io.FileNotFoundException: \preferences.txt (The system cannot find the file specified)
+[14:39:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:39:02] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:39:09] [Server thread/INFO]: [MinecraftTest] Disabling MinecraftTest v0.0.1
+[14:39:09] [Server thread/INFO]: [MinecraftTest] Goodbye World!
+[14:39:09] [Server thread/INFO]: [MinecraftTest] Loading MinecraftTest v0.0.1
+[14:39:09] [Server thread/INFO]: [MinecraftTest] Enabling MinecraftTest v0.0.1
+[14:39:09] [Server thread/INFO]: [MinecraftTest] Starting to enable Test Plugin
+[14:39:09] [Server thread/INFO]: [MinecraftTest] Initialising Preferences:
+[14:39:09] [Server thread/INFO]: java.io.FileNotFoundException: \preferences.txt (The system cannot find the file specified)
+[14:39:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:39:09] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m

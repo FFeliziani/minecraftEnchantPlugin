@@ -1,0 +1,5 @@
+name: MinecraftTest
+version: 0.0.1
+description: my first test
+author: F3l1x
+main: com.federicofeliziani.minecraftTest.MinecraftTest
